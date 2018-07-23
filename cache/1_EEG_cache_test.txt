@@ -1,0 +1,2 @@
+../../eegImagenet/mindbigdata-imagenet-in-v1.0/MindBigData-Imagenet/MindBigData_Imagenet_Insight_n01807496_2845_1_98.csv
+../../eegImagenet/mindbigdata-imagenet-in-v1.0/MindBigData-Imagenet/MindBigData_Imagenet_Insight_n01807496_12296_1_1180.csv
